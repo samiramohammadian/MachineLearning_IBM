@@ -18,15 +18,27 @@ Machine learning
            
 ### introduction to Machine Learning :
 - What is machine learning?
-- Machine learning is the subfield of computer science that gives "computers the ability to learn without being explicitly programmed.”
-- 
-<img width="693" alt="Screenshot 2023-05-27 at 6 11 05 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/880305da-5aa8-4473-b5f8-3c7e49185a34">
-<img width="683" alt="Screenshot 2023-05-27 at 6 12 16 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/05a0f87f-97c7-4bd1-9a73-d0cc84c2b214">
-<img width="761" alt="Screenshot 2023-05-27 at 6 13 25 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/4c1e5af9-aa13-4cd7-9267-a004ce0fd3ca">
-<img width="755" alt="Screenshot 2023-05-27 at 6 14 00 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/209897d7-d66d-4c96-82ab-f6ac9352a8e1">
-<img width="750" alt="Screenshot 2023-05-27 at 6 14 24 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/1dd07b01-f636-4619-8ee8-719686a7ffe8">
-<img width="637" alt="Screenshot 2023-05-27 at 6 15 09 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/c100ea92-ed48-462c-864e-8a98d8c2c37c">
-<img width="675" alt="Screenshot 2023-05-27 at 6 16 24 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/bf286340-1303-4af5-916d-605b80d42a98">
+  - Machine learning is the subfield of computer science that gives "computers the ability to learn without being explicitly programmed.”
+
+
+- Major machine learning techniques: 
+  - Regression/Estimation : 
+    - Predicting continuous values
+  - Classification : 
+    - predicting the item class/category of case 
+  - Clustering: 
+     - Finding the structure of data , summarization 
+  - Associations : 
+     - Associating frequent co-occurring items / events
+  - Anomaly detection : 
+     - Discovering abnormal and unusual cases
+  - Sequence mining :
+     - Predicting next events, click-stream (markov model , HMM)
+  - Dimension Reduction:
+     - Reducing the size of data (PCA)
+  - Recommendation systems :
+     - Recommending items
+
 
 ********************************************
 
