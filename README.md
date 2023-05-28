@@ -114,9 +114,7 @@ Generally speaking, unsupervised learning has more difficult algorithms than sup
 
 ************************************************************************************************************************************************************************************************************
 
-
-
-<img width="798" alt="Screenshot 2023-05-27 at 6 51 56 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/50acd62b-4726-43b3-93f7-0714cfbef766">
+> <img width="594" alt="Screenshot 2023-05-28 at 5 58 00 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/129f457d-3500-4f98-a8dc-450705c621da">
 
 
 
