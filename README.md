@@ -40,9 +40,22 @@ Machine learning
      - Recommending items
 
 
-********************************************
+******************************************************************************************************
+- AI components : 
+  + Computer Vision 
+  + Language Processing
+  + Creativity
+  + ETC...
 
-> <img width="253" alt="Screenshot 2023-05-27 at 6 17 10 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/2317bf97-0eec-4b7a-b47d-f7ea30aaf366">
+- Machine Learning: 
+  + Classification 
+  + Clustering
+  + Neural Network 
+  + ETC...
+
+- Revolution in ML:
+  + Deep Learning 
+  
 
 
 ### Python for machine learning:
