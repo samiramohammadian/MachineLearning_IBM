@@ -70,9 +70,9 @@ Machine learning
 4. Pandas library is a very high-level Python library that provides high performance easy to use data structures. It has many functions for data importing, manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and timeseries.
 5. SciKit Learn is a collection of algorithms and tools for machine learning which is our focus here and which you'll learn to use within this course. 
 
+> <img width="439" alt="Screenshot 2023-05-28 at 5 53 42 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/4d7a507e-7925-451d-b786-7f2fe3db1932">
 
-> <img width="550" alt="Screenshot 2023-05-27 at 6 29 54 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/f163e0fb-a8f8-4068-8c4a-1727346eddfd">
-> <img width="1204" alt="Screenshot 2023-05-27 at 6 32 57 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/c5c6f406-4972-456d-99d0-a7ac55bf82f4">
+> <img width="627" alt="Screenshot 2023-05-28 at 5 53 56 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/ba8549a3-a2f8-432d-927f-453501b646be">
 
 ************************************************************************************************************************************************************************************************************
 
@@ -88,11 +88,13 @@ We "teach the model " then with that Knowledge, it can predict unknown or future
 
   - Classification: 
 
-    - > <img width="838" alt="Screenshot 2023-05-27 at 6 40 15 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/08c12a30-3373-4c59-a7df-699e0001bb40">
+
+    - > <img width="636" alt="Screenshot 2023-05-28 at 5 54 55 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/c0f36b4d-5759-4046-b7af-73fc07c14cfe">
 
    - Regression:
 
-     - > <img width="810" alt="Screenshot 2023-05-27 at 6 41 21 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/d759dcfb-03a7-4a94-abed-93c1200c3e03">
+
+     - > <img width="643" alt="Screenshot 2023-05-28 at 5 55 30 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/518b48bf-2527-4640-9340-d698fae3d480">
 
 
 #### Unsupervised learning:
@@ -106,7 +108,8 @@ Generally speaking, unsupervised learning has more difficult algorithms than sup
   
   - <b> Clustering</b> : 
 
-    - > <img width="804" alt="Screenshot 2023-05-27 at 6 51 00 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/721ae4b2-5b0f-4b43-b46c-a96aac941c2c">
+
+    - > <img width="638" alt="Screenshot 2023-05-28 at 5 55 59 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/72cab825-2def-46af-a205-8902b828767f">
 
 
 ************************************************************************************************************************************************************************************************************
