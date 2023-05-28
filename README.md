@@ -56,7 +56,7 @@ Machine learning
 - Revolution in ML:
   + Deep Learning 
   
-******************************************************************************************************
+***********************************************************************************************************************************************************************************************************
 
 ### Python for machine learning:
 - Python is a popular and powerful general purpose programming language that recently emerged as the preferred language among data scientists. 
@@ -74,8 +74,12 @@ Machine learning
 > <img width="550" alt="Screenshot 2023-05-27 at 6 29 54 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/f163e0fb-a8f8-4068-8c4a-1727346eddfd">
 > <img width="1204" alt="Screenshot 2023-05-27 at 6 32 57 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/c5c6f406-4972-456d-99d0-a7ac55bf82f4">
 
+************************************************************************************************************************************************************************************************************
 
-### Supervised vs Unsupervised:
+
+
+## Supervised vs Unsupervised:
+
 
 #### Supervised learning : 
 We "teach the model " then with that Knowledge, it can predict unknown or future instances.(label)
@@ -105,7 +109,9 @@ Generally speaking, unsupervised learning has more difficult algorithms than sup
     - > <img width="804" alt="Screenshot 2023-05-27 at 6 51 00 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/721ae4b2-5b0f-4b43-b46c-a96aac941c2c">
 
 
-******************************************************************************************************
+************************************************************************************************************************************************************************************************************
+
+
 
 <img width="798" alt="Screenshot 2023-05-27 at 6 51 56 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/50acd62b-4726-43b3-93f7-0714cfbef766">
 
