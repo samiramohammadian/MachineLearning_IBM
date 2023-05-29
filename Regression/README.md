@@ -92,6 +92,37 @@ week2
  
  
 
+ ## Model Evaluation in Regression Models:
+ 
+ The goal of regression is to build a model to accurately predict an unknown case. To this end, we have to perform regression evaluation after building the model: 
+ 
+ - train and test on the same dataset :
+   - when you test with a dataset in which you know the target value for each data point, you're able to obtain a percentage of accurate predictions for the model.
+   - This evaluation approach would most likely have a high training accuracy and the low out-of-sample accuracy since the model knows all of the testing data points from the training.
+ 
+ - train/test split:
+   - > <img width="642" alt="Screenshot 2023-05-29 at 1 31 49 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/feb8b420-49c8-4548-a0ed-5f32f2a5b883">
+   
+ -  <img width="675" alt="Screenshot 2023-05-29 at 1 31 18 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/4a069878-75d2-487a-a9bd-d10b491ab75e">
+
+
+-----
+ ### Calculating the accuracy of a model : 
+> <img width="486" alt="Screenshot 2023-05-29 at 1 30 47 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/d2c70373-42c6-4cad-a3d2-80c968466583">
+----- 
+### What is training & out-of-sample accuracy?
+ - Training Accuracy
+    - High training accuracy isn't necessarily a good thing
+    - Result of over-fitting
+    - <b>Over-fit</b>: the model is overly trained to the dataset, which may capture noise and produce a non-generalized model
+    - 
+ - Out-of-Sample Accuracy
+    - It's important that our models have a high, out-of-sample accuracy
+    - How can we improve out-of-sample accuracy?
+ 
+----
+### K-fold :
+> <img width="634" alt="Screenshot 2023-05-29 at 1 30 25 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/ccf93d81-8224-4ec7-92d0-f192f6db2650">
 
 
 
