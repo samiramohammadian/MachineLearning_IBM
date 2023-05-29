@@ -134,4 +134,32 @@ week2
 
  
  
+ # Multiple Linear Regression:
+
+- Examples of multiple linear regression:
+  - Independent variables effectiveness on prediction
+     - Does revision time, test anxiety, lecture attendance and gender have any effect on the exam performance of students?
+  - Predicting impacts of changes
+     - How much does blood pressure go up (or down) for every unit increase (or decrease) in the BMI of a patient?
+----
+#### Predicting continuous values with multiple linear regression:
+> <img width="799" alt="Screenshot 2023-05-29 at 6 45 56 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/dd6b26f9-2b4a-4aff-b00a-a2f94fc049d4">
+----
+#### Using MSE to expose the error in the model :
+> <img width="824" alt="Screenshot 2023-05-29 at 6 45 18 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/72a1051e-ec1d-4455-b7e7-e75add0f99e1">
+------
+
+- Estimating multiple linear regression parameters
+  - How to estimate 0?
+    - Ordinary Least Squares
+        - Linear algebra operations
+        - Takes a long time for large datasets (10K+ rows)
+    - An optimization algorithm
+        - Gradient Descent
+        - Proper approach if you have a very large dataset
+----- 
+#### Making predictions with multiple linear regression :
+> <img width="772" alt="Screenshot 2023-05-29 at 6 44 57 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/2c5259be-cb15-40bf-b3b9-cc54c298b46e">
+
+
 
