@@ -126,3 +126,12 @@ week2
 
 
 
+ ## Evaluation Metrics in Regression Models:
+ 
+-  We'll be reviewing a number of model evaluation metrics, including Mean Absolute Error, Mean Squared Error, and Root Mean Squared Error.
+-  MAE , MSE , RMSE ,...
+-  > <img width="745" alt="Screenshot 2023-05-29 at 1 42 13 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/936a9aa9-be82-4590-b02f-6867739915d3">
+
+ 
+ 
+
