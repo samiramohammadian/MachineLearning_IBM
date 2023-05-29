@@ -60,6 +60,7 @@ week2
  
  > <img width="635" alt="Screenshot 2023-05-29 at 12 34 48 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/b5a2d6e7-d52b-4ccd-a3ff-8251f3414658">
  
+----
 
  ### FIT LINE: 
 > <img width="781" alt="Screenshot 2023-05-29 at 11 58 01 AM 2 2" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/32e165c9-b4a9-4ac1-8bb8-dfb187ba0aac">
@@ -72,16 +73,17 @@ week2
     -  or option two, we can use an optimization approach
  ----- 
 ### Theta 0:
-  -  we calculate the mean of the independent and dependent or target columns from the data set: 
-     - > <img width="832" alt="Screenshot 2023-05-29 at 12 16 13 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/1be1b4f7-98b2-47df-954d-cd531cfa5186">
+  -  we calculate the mean of the independent and dependent or target columns from the data set:
+     - > <img width="631" alt="Screenshot 2023-05-29 at 12 39 31 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/5aefd63e-931c-49ce-8a09-9817d26d5aa3">
   - then we plug it into the slope equation to find theta 1 : 
-    - > <img width="824" alt="Screenshot 2023-05-29 at 12 17 20 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/3847f6b5-4468-4185-a9eb-8fc90143bee8">
+    - > <img width="626" alt="Screenshot 2023-05-29 at 12 40 03 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/2c614313-a622-4b53-83f1-c59966a91fcc">
 ### Theta1 : 
-> <img width="220" alt="Screenshot 2023-05-29 at 12 18 19 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/6916205c-1fcd-4ba7-89e6-edda55a706b1">
-### the polynomial of the line: 
-> <img width="254" alt="Screenshot 2023-05-29 at 12 20 36 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/acb768a5-4dbe-43f4-a473-061c306ee30e">
+> <img width="168" alt="Screenshot 2023-05-29 at 12 40 31 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/f6aa8cbd-577d-4b68-ba67-4594f7151af8">
+### the polynomial of the line:
+> <img width="198" alt="Screenshot 2023-05-29 at 12 40 45 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/c3636d7d-ffc1-4b48-88e2-bfce6eecc5bc">
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- <img width="794" alt="Screenshot 2023-05-29 at 12 24 51 PM" src="https://github.com/samiramohammadian/MachineLearningWithPython_IBM/assets/87034655/20a4ecaf-e8c4-4011-8baf-8ba0ce85aacc">
+> <img width="589" alt="Screenshot 2023-05-29 at 12 41 23 PM" src="https://github.com/samiramohammadian/MachineLearning_IBM/assets/87034655/67ae9104-820f-4944-9010-50e24298744a">
 
 - Pros of linear regression
    - Very fast
